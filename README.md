@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
-## ⚡ Technologies I love and use
+### ⚡ Technologies I love and use
 <div style="display: inline_block"><br>
    <img align="center" alt="PHP" width="64" height="64.5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />       
    <img align="center" alt="Laravel" width="64" height="64.5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />        
