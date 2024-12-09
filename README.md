@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/deondazy">
-  <img src="https://github-readme-stats-flax-psi-80.vercel.app/api?username=deondazy&show_icons=true&theme=nightowl&include_all_commits=true"/>
+  <img src="https://github-readme-stats-flax-psi-80.vercel.app/api?username=deondazy&show_icons=true&theme=nightowl&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
   <img src="https://github-readme-stats-flax-psi-80.vercel.app/api/top-langs?username=deondazy&size_weight=0.5&count_weight=0.5&langs_count=8&theme=nightowl"/>
 </div>
 <hr/>
