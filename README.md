@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**deondazy/deondazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **deondazy/deondazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,15 +11,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! I'm Deon, welcome to my GitHub. 🌱
+
+### Hello! 👋 Welcome to my GitHub. 🌱
 
 <hr />
 
 ### About Me 🚀
-💻 I’m a self taught **Full-stack developer** with over a decade of experience. </br> </br>
+💻 I'm Deon Okonkwo, a self taught **Full-stack developer** with over a decade of professional experience. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
- <b><i>Let us build the future today, one line at a time! 
+<b><i>Let us build the future today, one line at a time! 
     
 <br/>
 <hr />
