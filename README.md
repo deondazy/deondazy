@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <hr />
 
 ### About Me 🚀
-💻 I'm Deon Okonkwo, a self taught **Full-stack developer** with over a decade of professional experience. </br> </br>
+💻 I'm **Deon Okonkwo**, a self taught **Web Developer** with over a decade of professional experience. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
 <b><i>Let us build the future today, one line at a time! 
